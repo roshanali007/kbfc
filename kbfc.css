@@ -1,0 +1,124 @@
+.heading{
+    background-color: white;
+    height: 600px;
+    width: 100%;
+}
+.head{
+    background-color:rgb(250, 249, 247);
+    width: 100%;
+    height: 30px;
+}
+.menu{
+    background-color:blue;
+    width: 100%;
+    padding-top: 15px;
+}
+.body{
+    margin: 0;
+}
+.sale-img{
+    width: 100%;
+    
+}
+.left-head{ 
+    width: 50%;
+    float: left;
+    padding-top: 12px;
+
+
+}
+.right-head{
+    width: 50%;
+    float: left;
+    padding-top: 12px;
+
+
+}
+.RH{
+    width: 76%;
+    float: left;
+ 
+
+}
+.LH{
+    width: 24%;
+    float: left;
+ 
+
+}
+.more{
+    width: 100%;
+    background-color:white;
+    padding-top: 300px;
+}
+.details{
+    width: 100%;
+    color:  #8c8c8c;
+    text-align: center;
+}
+.latest{
+    text-align: center;
+    font-size: 38px;
+}
+.img2{
+    width: 95%;
+}
+.loan{
+    width: 25%;
+    float: left;
+}   
+.young{
+    float: left;
+    width: 25%;
+
+}
+.club{
+    float: left;
+    width: 25%;
+}
+.sakai{
+   float: left;
+   width: 25%;
+}
+.details1{
+    color:  #8c8c8c;
+}
+.minimenu{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+}
+.img3{
+    padding-left: 590px;
+    padding-top: 100px;
+}
+.history{
+    text-align: center;
+    padding-top: 106px;
+}
+.formation{
+    width: 50%;
+    float: left;
+}
+.sachin{
+    width: 50%;
+    float: left;
+}
+.img4{
+    padding-left: 220px;
+}
+.link{
+    padding-left: 1000px;
+    text-decoration: none;
+}
+.fans{
+    width: 50%;
+    float: left;
+}
+.supo{
+    padding-left: 280px;
+}
+.img5{
+    padding-left: 220px;
+    padding-top: 80px;
+}
